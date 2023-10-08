@@ -4,8 +4,8 @@ import datetime
 from os import listdir
 
 
-INPUTPATH = "D:\programming\FromBBEscortToWln\inputFolder\\"
-OUTPUTPATH = "D:\programming\FromBBEscortToWln\outputFolder\\"
+INPUTPATH = "ENTERYOURPATH"
+OUTPUTPATH = "ENTERYOUPATH"
 
 
 
